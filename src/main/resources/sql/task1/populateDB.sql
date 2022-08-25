@@ -7,7 +7,7 @@ insert into companies (id, name, country) values (1, 'Google', 'Canada');
 insert into companies (id, name, country) values (2, 'GoIT', 'Ukraine');
 insert into companies (id, name, country) values (3, 'IBM', 'USA');
 insert into companies (id, name, country) values (4, 'Honda', 'Japan');
-4
+
 insert into customers (id, name, email) values (1, 'Oleksandr Yanov', 'oleksandr.yanov@example.com');
 insert into customers (id, name, email) values (2, 'Cофия Сидоренко', 'sofiia.sidorenko@example.com');
 insert into customers (id, name, email) values (3, 'Dima Aushev', 'dima.aushev@example.com');
